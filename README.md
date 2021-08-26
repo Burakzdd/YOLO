@@ -1,3 +1,3 @@
-# YOLO_Labelling
-
-Kodlarda Valentyn Sichkar'ın udemy kursundan yararlanılmıştır
+# YOLO
+YOLO üzerinde farklı versiyonlarla çalışılmıştır.
+YOLOv3 ve YOLOv4 üzerinde veri eğitimleri de gerçekleştirilmiştir.
